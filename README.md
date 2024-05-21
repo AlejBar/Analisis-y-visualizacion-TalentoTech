@@ -1,5 +1,5 @@
 # Analisis y visualizacion TalentoTech
-Actividades realizadas en las clases del Bootcamp Analisis y visualización de Datos impartido por Talento Tech y con el auspicio del MinTic del Gobierno de la Republica de Colombia.
+Actividades realizadas en las clases del Bootcamp Analisis y visualización de Datos impartido por Talento Tech y con el auspicio del MinTic del Gobierno de la Republica de Colombia. Los Datos en los que se trabajo mayormente en este repositorio fueron "Los resultados de la prueba Saber 11" y que son Datos abiertos que se encuentran en la página https://www.datos.gov.co/ 
 
 Mi nombre es Luis Alejandro Barbosa Torres, www.linkedin.com/in/luis-alejandro-barbosa-torres-0a5238230, soy matemático de la Universidad Nacional de Colombia, con Magister en Ciencias Matemáticas de la Universidad Nacional de Colombia. Hice mi Phd en Matemáticas en la Universidad de Leicester en el Reino Unido.
 
