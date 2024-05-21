@@ -8,7 +8,7 @@ El profesor fue [Wilson Espitia Humanez](https://www.linkedin.com/in/wilsonespit
 # ¿Qué es [Talento Tech](https://talentotech.gov.co/portal/)?
 - Talento Tech es un programa de capacitación diseñado para cultivar y potenciar el talento digital emergente del país. A través de un riguroso entrenamiento inspirado en la metodología de bootcamps, nuestro objetivo es dotar a los participantes de habilidades digitales avanzadas, competencias interpersonales, dominio del inglés y experiencia en el desarrollo de proyectos. Nuestra misión es preparar a estos futuros profesionales para integrarse con éxito en el exigente mercado laboral tecnológico.
 
-El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por los Campistas Tech en su rol de estudiantes, así como por mí en mi función de docente. A continuación, se presentan las características principales del contenido del programa que se abordarán a lo largo de las 8 semanas de duración del bootcamp:
+El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por los Campistas Tech en su rol de estudiantes, así como por el docente. A continuación, se presentan las características principales del contenido del programa que se abordarán a lo largo de las 8 semanas de duración del bootcamp:
 
 ## Desarrollador:
 - [Ing. Wilson Espitia Humanez](https://www.linkedin.com/in/wilsonespitia/)
